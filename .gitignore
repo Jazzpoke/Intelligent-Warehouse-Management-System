@@ -1,0 +1,15 @@
+# 虚拟环境
+venv/
+
+# 编辑器配置
+.vscode/
+
+# 数据文件
+warehouse_data.json
+
+# 日志文件
+*.log
+
+# 临时文件
+__pycache__/
+*.pyc
