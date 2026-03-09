@@ -57,6 +57,3 @@
 - 数据存储在`warehouse_data.json`文件中，请勿手动修改该文件
 - 系统运行在开发模式下，生产环境部署时请修改相关配置
 - 确保安装了所有必要的依赖包
-=======
-# Intelligent-Warehouse-Management-System
->>>>>>> 7cd9538ab0cd3b98313c27f7217f453f63cc33c9
